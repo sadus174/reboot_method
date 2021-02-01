@@ -89,8 +89,9 @@ namespace reboot_method
             this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(13, 79);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 24);
+            this.label1.Size = new System.Drawing.Size(297, 24);
             this.label1.TabIndex = 6;
+            this.label1.Text = "Введите числа для сложения";
             // 
             // textBox3
             // 
